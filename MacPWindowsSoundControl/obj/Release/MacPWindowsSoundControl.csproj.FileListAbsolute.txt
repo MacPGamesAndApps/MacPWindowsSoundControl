@@ -1,0 +1,5 @@
+P:\Files Backup\Projects disk E\MacP\Components\MacPWindowsSoundControl\MacPWindowsSoundControl\bin\Release\MacPWindowsSoundControl.dll
+P:\Files Backup\Projects disk E\MacP\Components\MacPWindowsSoundControl\MacPWindowsSoundControl\bin\Release\MacPWindowsSoundControl.pdb
+P:\Files Backup\Projects disk E\MacP\Components\MacPWindowsSoundControl\MacPWindowsSoundControl\obj\Release\MacPWindowsSoundControl.csprojResolveAssemblyReference.cache
+P:\Files Backup\Projects disk E\MacP\Components\MacPWindowsSoundControl\MacPWindowsSoundControl\obj\Release\MacPWindowsSoundControl.dll
+P:\Files Backup\Projects disk E\MacP\Components\MacPWindowsSoundControl\MacPWindowsSoundControl\obj\Release\MacPWindowsSoundControl.pdb
