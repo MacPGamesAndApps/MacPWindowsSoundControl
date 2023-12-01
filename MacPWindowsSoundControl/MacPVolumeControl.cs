@@ -3,7 +3,6 @@ using System.Runtime.InteropServices;
 
 namespace MacPWindowsSoundControl
 {
-    //Doesn't seem to work on Windows 11
     public class MacPVolumeControl
     {
         private IntPtr _handle;
